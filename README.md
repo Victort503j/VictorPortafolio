@@ -7,4 +7,4 @@ gráfica y la experiencia del usuario. Combina creatividad y habilidades técnic
 y fáciles de usar, asegurando una navegación fluida y satisfactoria.)
 
 [Link del sitio]
-[](https://portafolio-victor-romero.netlify.app/)
+[Aquí](https://portafolio-victor-romero.netlify.app/)
